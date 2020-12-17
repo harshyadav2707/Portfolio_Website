@@ -10,4 +10,4 @@ This website is designed with :-
 
 > MongoDb
 
-![Screenshot] (./home.png)
+![](./home.png)
